@@ -1,0 +1,71 @@
+#firstBox {
+    width: 200px;
+    height: 100px;
+    padding: 20px;
+    margin: 50px;
+}
+
+.gridExercise {
+    background-color: teal;
+    height: 50px;
+    width: 300px;
+    align-items: center;
+}
+
+.containerGrids {
+    outline: tomato;
+    align-items: center;
+    height: auto;
+
+}
+
+.title {
+    font-family: 'Poppins', sans-serif;
+}
+
+.subheader {
+    font-family: 'Poppins', sans-serif;
+    color: rgba(241,90,41,1.0);
+}
+
+.subheader2 {
+    width: auto;
+    font-family: 'Poppins', sans-serif;
+    color: whitesmoke;
+    
+}
+
+.container {
+    width: 800px;
+    height: auto;
+    margin: 100px auto;
+}
+
+.body {
+    font-family: 'Poppins', sans-serif;
+    color: whitesmoke;
+}
+
+.grayheader {
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    color: gray;
+}
+
+.box{
+    width: 200px;
+    height: 300px;
+    margin: 20px;
+    box-sizing: border-box;
+}
+
+.orangeHeader {
+    width: auto;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    color: rgba(241,90,41,1.0);
+}
+
+.header{
+    align-items: center;
+}
